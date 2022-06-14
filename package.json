@@ -1,9 +1,9 @@
 {
-  "name": "sftp",
-  "displayName": "SFTP",
-  "description": "SFTP/FTP sync",
+  "name": "cn-sftp",
+  "displayName": "SFTP CN",
+  "description": "SFTP/FTP Client",
   "version": "1.0.0",
-  "publisher": "OneBox LLC",
+  "publisher": "codenile",
   "author": "OneBox LLC",
   "engines": {
     "vscode": "^1.30.0"
