@@ -8,6 +8,10 @@
   "engines": {
     "vscode": "^1.30.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gio-nadiradze/vscode-sftp"
+  },
   "license": "MIT",
   "categories": [
     "Other"
